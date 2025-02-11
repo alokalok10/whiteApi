@@ -33,11 +33,19 @@ const Review: React.FC = () => {
                   />
                 </div>
                 <div className="testimonial-info">
-                JohnDoe
-                  <small>Tech Solutions</small>
+                  Ravi Kumar
+                  <small>Corporate Office Project</small>
                 </div>
                 <div className="description">
-                Amazing platform! Easy to navigate, great deals, and fast shipping. Highly recommended for tech lovers!                </div>
+                  "We chose WhiteLight Enterprises for our corporate office
+                  lighting, and they did not disappoint. Their LED lights are
+                  not only energy-efficient but also aesthetically enhance the
+                  office's ambiance. The architectural lighting solutions they
+                  provided for our exterior spaces were stunning and have given
+                  our building a modern, sophisticated look. The team was
+                  professional, and the installation process was quick and
+                  hassle-free. Highly recommend them!"
+                </div>
               </div>
             </div>
             <div className="item">
@@ -50,10 +58,13 @@ const Review: React.FC = () => {
                   />
                 </div>
                 <div className="testimonial-info">
-                SarahSmith                  <small> Home Decor Hub</small>
+                Priya Patel
+                <small> Residential Lighting
+                  </small>
                 </div>
                 <div className="description">
-                Fantastic shopping experience! The quality of products is excellent, and customer support is very helpful
+                "WhiteLight Enterprises has transformed the lighting in our home. We installed their LED interior lights in every room, and the result is both elegant and efficient. The lighting is bright without being overwhelming, and the design options are perfect for our modern decor. The customer service was exceptional, with quick responses to all of our inquiries. We’re extremely satisfied and will definitely use them for future projects."
+
                 </div>
               </div>
             </div>
@@ -68,16 +79,18 @@ const Review: React.FC = () => {
                   />
                 </div>
                 <div className="testimonial-info">
-                Hassan Javed     
-                             <small>Photographer</small>
+                Anil Sharma
+
+                  <small> Highway Lighting Project
+                  </small>
                 </div>
                 <div className="description">
-                Wide variety of fitness gear at affordable prices. Quick delivery and smooth checkout process!
+                "Our city recently collaborated with WhiteLight Enterprises for a major highway lighting upgrade. Their LED street lights have significantly improved visibility and safety on our roads. We’ve received positive feedback from commuters, and the durability of the lights has been impressive. The WhiteLight team provided excellent support throughout the project, from planning to installation. A reliable company that delivers high-quality products!"
+
                 </div>
               </div>
             </div>
 
-            
             <div className="item">
               <div className="testimonial">
                 <div className="pic">
@@ -88,11 +101,13 @@ const Review: React.FC = () => {
                   />
                 </div>
                 <div className="testimonial-info">
-                Mehwish Alam
-                  <small>Makeup Artist</small>
+                  MSneha Deshmukh
+
+                  <small>Outdoor & Landscape Lighting
+                  </small>
                 </div>
                 <div className="description">
-                Trendy clothing at great prices! The website is user-friendly, and delivery is always on time.
+                "We approached WhiteLight Enterprises to light up our outdoor spaces, and their architectural lighting solutions exceeded our expectations. The lights are designed beautifully and add an artistic touch to our landscape. The lights are energy-efficient and durable, perfect for the Indian weather. Their team was attentive to our needs and helped us choose the right products to suit our outdoor ambiance."
                 </div>
               </div>
             </div>
@@ -107,11 +122,14 @@ const Review: React.FC = () => {
                   />
                 </div>
                 <div className="testimonial-info">
-                OliviaWhite
-                  <small>Book Haven</small>
+                Vikram Reddy
+
+                  <small>Hotel Lighting Solutions
+                  </small>
                 </div>
                 <div className="description">
-                Perfect for book lovers! Huge collection, amazing discounts, and hassle-free ordering process.
+                "As a hotel owner, lighting plays a crucial role in setting the mood and atmosphere for our guests. WhiteLight Enterprises provided us with excellent LED lighting solutions for both the interior and exterior of our property. Their lights not only highlight our hotel's architectural features but also create a welcoming environment for our guests. The quality of the lights is top-notch, and we’ve seen a noticeable reduction in our energy bills. Very happy with the results!"
+
                 </div>
               </div>
             </div>
